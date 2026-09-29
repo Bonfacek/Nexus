@@ -1,0 +1,9 @@
+ultralytics
+redis
+numpy
+opencv-python-headless
+requests
+shapely
+pyyaml
+python-dotenv
+python-socketio[client]
